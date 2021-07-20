@@ -2,6 +2,7 @@
 
 ## TODOS:
 
+[x] Setup Nextjs
 [ ] Routing and navigation bar
 [ ] Shared Components
 [ ] Dynamic pages
