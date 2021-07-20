@@ -3,7 +3,7 @@
 ## TODOS:
 
 [x] Setup Nextjs
-[ ] Routing and navigation bar
+[x] Routing and navigation bar
 [ ] Shared Components
 [ ] Dynamic pages
 [ ] Clean Urls and Dynamic Routings
