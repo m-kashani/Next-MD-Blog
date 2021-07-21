@@ -1,11 +1,12 @@
-import Header from "../component/header.js";
+import Layout from "../component/Layout.js";
 
 const Blog = () => {
   return (
-    <div>
-      <Header />
-      <h1>This page is from Blog.js </h1>
-    </div>
+    <Layout>
+      <div>
+        <h1>This page is from Blog.js </h1>
+      </div>
+    </Layout>
   );
 };
 export default Blog;
