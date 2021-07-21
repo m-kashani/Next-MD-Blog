@@ -1,14 +1,9 @@
-import Link from "next/link";
+import Header from "../component/header.js";
+
 const About = () => {
   return (
     <div>
-      <Link href="/blog">
-        <a>blog</a>
-      </Link>
-      <Link href="/">
-        <a>index</a>
-      </Link>
-
+      <Header />
       <h1>This page is from About.js </h1>
     </div>
   );

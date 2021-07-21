@@ -4,7 +4,7 @@
 
 [x] Setup Nextjs
 [x] Routing and navigation bar
-[ ] Shared Components
+[x] Shared Components
 [ ] Dynamic pages
 [ ] Clean Urls and Dynamic Routings
 [ ] Fetching data for pages
