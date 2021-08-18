@@ -14,6 +14,7 @@ const headerStyle = {
 const Header = () => {
   return (
     <div>
+      HSQL - SQL like language for HPCC Systems.
       <Link href="/about">
         <a style={headerStyle}>About</a>
       </Link>

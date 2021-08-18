@@ -11,3 +11,8 @@
 [ ] Styling Components
 [ ] API Routes
 [ ] Deploying
+
+<!-- https://github.com/mdx-js/mdx -->
+
+[ ] Added Material-UI
+[ ] .DS_Store ignoring
