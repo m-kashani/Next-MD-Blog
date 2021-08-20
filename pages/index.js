@@ -1,14 +1,19 @@
-import Layout from "../component/Layout.js";
+import Layout from "../components/Layout.js";
+import Drawer from "../components/Drawer";
+import Header from "../components/Header.js";
 
 import React from "react";
-
 function Homepage() {
   return (
-    <Layout>
-      <div>
-        <h1>Welcome to the HSQL Documentation!</h1>
-      </div>
-    </Layout>
+    <div>
+      <Header />
+      <Layout>
+        {/* <div>
+          <h1>Welcome to the HSQL Documentation!</h1>
+        </div> */}
+      </Layout>
+      <Drawer />
+    </div>
   );
 }
 
